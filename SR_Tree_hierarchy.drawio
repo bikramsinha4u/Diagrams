@@ -1,1 +1,178 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T16:04:24.001Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.3.5" etag="7HAo1AXpDXW1HDacCpbu" type="github"><diagram id="YNcn--Eb4MYJt73Dupsy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-14T16:46:07.411Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="XeeKCuA4uq0AT5XVWDdZ" version="13.3.5" type="github">
+  <diagram id="YNcn--Eb4MYJt73Dupsy" name="Page-1">
+    <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SjNW3VqROAEUk7hYalKs-45" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="240" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-1" value="Patient Name(10,10)" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-2" value="Contributing Equipment Sequence(18,A001)" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="200" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-3" value="Concept Name Code Sequence(40,A043)" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-4" value="Performed Procedure Code Sequence(18,A001)" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="680" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-5" value="Current Requested Procedure Evidence Sequence(40,A375)" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="920" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-6" value="Content Template Sequence(40,A504)" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-7" value="Content Sequence(40,A730)" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-14" value="Code Value (8,100)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="320" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-15" value="&lt;span style=&quot;text-align: center&quot;&gt;Manufacturer&#39;s Model Name (8,1090)&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-16" value="&lt;span style=&quot;text-align: center&quot;&gt;Software Versions (18,1020)&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-17" value="&lt;span style=&quot;text-align: center&quot;&gt;Purpose of Reference Code Sequence (40,A170)&lt;/span&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-18" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="360" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-19" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="400" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-20" value="Code Value (8,100)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="200" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-22" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="240" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-23" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="280" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-24" value="Code Value (8,100)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="200" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-25" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="240" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-26" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="280" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-27" value="Referenced Series Sequence (8,1115)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="200" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-28" value="Study Instance UID (20,D)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1640" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-29" value="Referenced SOP Sequence (8,1199)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="250" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-30" value="Series Instance UID (20,E)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="370" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-31" value="Referenced SOP Class UID (8,1150)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="290" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-32" value="Referenced SOP Instance UID (8,1155)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="330" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-50" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="440" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-51" value="Referenced SOP Sequence (8,1199)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="450" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-52" value="Series Instance UID (20,E)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="570" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-53" value="Referenced SOP Class UID (8,1150)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="490" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-54" value="Referenced SOP Instance UID (8,1155)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="530" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-55" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="640" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-56" value="Referenced SOP Sequence (8,1199)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="650" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-57" value="Series Instance UID (20,E)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="770" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-58" value="Referenced SOP Class UID (8,1150)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="690" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-59" value="Referenced SOP Instance UID (8,1155)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="730" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-60" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="840" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-61" value="Referenced SOP Sequence (8,1199)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="850" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-62" value="Series Instance UID (20,E)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="970" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-63" value="Referenced SOP Class UID (8,1150)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="890" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-64" value="Referenced SOP Instance UID (8,1155)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="930" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-65" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1040" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-66" value="Referenced SOP Sequence (8,1199)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1050" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-67" value="Series Instance UID (20,E)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1170" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-68" value="Referenced SOP Class UID (8,1150)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1090" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-69" value="Referenced SOP Instance UID (8,1155)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1130" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-70" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1240" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-71" value="Referenced SOP Sequence (8,1199)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1250" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-72" value="Series Instance UID (20,E)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1370" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-73" value="Referenced SOP Class UID (8,1150)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1290" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-74" value="Referenced SOP Instance UID (8,1155)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1330" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-75" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="960" y="1440" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-76" value="Referenced SOP Sequence (8,1199)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1450" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-77" value="Series Instance UID (20,E)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="970" y="1570" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-78" value="Referenced SOP Class UID (8,1150)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1490" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-79" value="Referenced SOP Instance UID (8,1155)" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="1530" width="200" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
