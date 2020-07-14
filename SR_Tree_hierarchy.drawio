@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-07-14T18:29:18.811Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="9YGBDHi95YFvj_4SDHwy" version="13.3.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-14T18:42:54.810Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="5XACDBcf9420Qpx-rxJY" version="13.3.5" type="github">
   <diagram id="YNcn--Eb4MYJt73Dupsy" name="Page-1">
-    <mxGraphModel dx="782" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1373" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SjNW3VqROAEUk7hYalKs-390" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;dashed=1;dashPattern=1 1;strokeWidth=4;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1520" y="200" width="410" height="4590" as="geometry" />
+        </mxCell>
         <mxCell id="SjNW3VqROAEUk7hYalKs-120" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;dashed=1;dashPattern=1 1;strokeWidth=4;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1520" y="200" width="410" height="4590" as="geometry" />
         </mxCell>
@@ -717,6 +720,357 @@
         </mxCell>
         <mxCell id="SjNW3VqROAEUk7hYalKs-382" value="7" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="2000" y="200" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-384" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;dashed=1;dashPattern=1 1;strokeWidth=4;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2000" y="200" width="420" height="3150" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-385" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="210" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-386" value="Value Type (40,A040)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="250" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-387" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="290" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-388" value="Code Value (8,100)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="330" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-389" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="370" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-391" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1580" y="410" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-392" value="Continuity Of Content (40, A050)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="450" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-393" value="Value Type (40,A040)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="250" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-394" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="290" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-395" value="Code Value (8,100)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="330" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-396" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="370" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-397" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="410" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-398" value="Continuity Of Content (40, A050)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="450" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-399" value="Content Sequence (40, A730)" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="490" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-400" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="530" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-401" value="Value Type (40,A040)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="570" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-402" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="610" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-403" value="Code Value (8,100)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="650" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-404" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="690" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-405" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="730" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-406" value="Continuity Of Content (40, A050)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="770" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-407" value="Content Sequence (40, A730)" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2070" y="810" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-408" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeWidth=4;fillColor=none;strokeColor=#FFFF00;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="850" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-409" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="980" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-410" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1020" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-411" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1060" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-412" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="860" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-413" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="900" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-414" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="940" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-415" value="Text Value (40,A160)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1100" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-416" value="1" style="text;html=1;strokeColor=#6F0000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="850" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-417" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeWidth=4;fillColor=none;strokeColor=#FF6666;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="1170" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-418" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1180" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-419" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1220" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-420" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1260" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-421" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1300" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-422" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1340" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-423" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2160" y="1380" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-424" value="UID (40,A124)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1420" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-425" value="2" style="text;html=1;strokeColor=#6F0000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="1170" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-426" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeWidth=4;fillColor=none;strokeColor=#9999FF;" vertex="1" parent="1">
+          <mxGeometry x="2115" y="1490" width="260" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-427" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1500" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-428" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1540" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-429" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1580" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-430" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1620" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-431" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1660" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-432" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1700" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-433" value="Concept Code Sequence (40,A168)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1740" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-434" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1780" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-435" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1820" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-436" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1860" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-437" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1500" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-438" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1500" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-439" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1540" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-440" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1580" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-441" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1620" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-442" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="1660" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-443" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%222%22%20style%3D%22text%3Bhtml%3D1%3BstrokeColor%3D%236F0000%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3BwhiteSpace%3Dwrap%3Brounded%3D0%3Bshadow%3D0%3Bglass%3D0%3BlabelBackgroundColor%3Dnone%3BfontColor%3D%23ffffff%3BfillColor%3D%230000FF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221610%22%20y%3D%221170%22%20width%3D%2220%22%20height%3D%2210%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;3" style="text;html=1;strokeColor=#6F0000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fontColor=#ffffff;fillColor=#0000FF;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="1490" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-444" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeWidth=4;fillColor=none;strokeColor=#7CCF7C;" vertex="1" parent="1">
+          <mxGeometry x="2115" y="1940" width="260" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-445" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1950" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-446" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1990" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-447" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2030" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-448" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2070" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-449" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2110" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-450" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2150" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-451" value="Concept Code Sequence (40,A168)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2190" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-452" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2230" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-453" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2270" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-454" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2310" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-455" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1950" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-456" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1950" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-457" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="1990" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-458" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2030" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-459" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2070" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-460" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2110" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-461" value="&lt;font face=&quot;monospace&quot;&gt;&lt;span&gt;4&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#6F0000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#0000FF;fontStyle=0;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="1940" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-462" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeWidth=4;fillColor=none;strokeColor=#FF8000;" vertex="1" parent="1">
+          <mxGeometry x="2115" y="2390" width="260" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-463" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2400" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-464" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2440" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-465" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2480" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-466" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2520" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-467" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2560" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-468" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2600" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-469" value="Concept Code Sequence (40,A168)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2640" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-470" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2680" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-471" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2720" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-472" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2760" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-473" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2400" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-474" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2400" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-475" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2440" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-476" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2125" y="2480" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-477" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2520" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-478" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2165" y="2560" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-479" value="&lt;font face=&quot;monospace&quot;&gt;&lt;span&gt;5&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#6F0000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#0000FF;fontStyle=0;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2105" y="2390" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-480" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=1;dashed=1;dashPattern=1 1;labelBackgroundColor=none;strokeWidth=4;fillColor=none;strokeColor=#33FF99;" vertex="1" parent="1">
+          <mxGeometry x="2120" y="2840" width="290" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-481" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="2850" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-482" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="2890" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-483" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="2930" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-484" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="2970" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-485" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="3010" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-486" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="3050" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-487" value="Measured Value Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="3090" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-488" value="Measured Units Code Sequence (40, 08EA)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="3130" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-489" value="Numeric Value (40, A30A)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="3290" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-490" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="2850" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-491" value="Relationship Type (40,A010)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="2850" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-492" value="Value Type (40,A040)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="2890" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-493" value="Concept Name Code Sequence (40,A043)" style="text;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="2930" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-494" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="2970" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-495" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="3010" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-496" value="&lt;font face=&quot;monospace&quot;&gt;&lt;span&gt;6&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=#6F0000;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;labelBackgroundColor=none;fillColor=#0000FF;fontStyle=0;labelBorderColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="2110" y="2840" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-497" value="Code Value (8,100)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="2970" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-498" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#6D1F00;fillColor=#a0522d;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2170" y="3010" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-499" value="Code Value (8,100)" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="3170" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-500" value="Coding Scheme Designator (8,102)" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="3210" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SjNW3VqROAEUk7hYalKs-501" value="Code Meaning (8,104)" style="text;html=1;strokeColor=#006EAF;fillColor=#1ba1e2;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;shadow=0;sketch=0;labelBackgroundColor=none;labelBorderColor=none;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="2210" y="3250" width="200" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
